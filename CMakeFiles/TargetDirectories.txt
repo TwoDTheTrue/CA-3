@@ -1,0 +1,3 @@
+/home/vvv/gitProjects/Lab3_AK/CMakeFiles/rebuild_cache.dir
+/home/vvv/gitProjects/Lab3_AK/CMakeFiles/edit_cache.dir
+/home/vvv/gitProjects/Lab3_AK/CMakeFiles/Lab3_AK.dir
